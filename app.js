@@ -1,5 +1,2 @@
-\<<<<<<< HEAD
-Feature D Logic
-=======
-main logic
->>>>>>> main
+abcd learning rebase backmerge merge conflict
+
