@@ -1,6 +1,3 @@
 I am Pramod
-<<<<<<< HEAD
-jdchgjkd
-=======
 I am working
->>>>>>> feature-d
+
